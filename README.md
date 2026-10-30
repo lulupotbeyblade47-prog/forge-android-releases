@@ -1,1 +1,1 @@
-Forge Android APK releases. Download only from the official release list.
+CaliMova Android APK releases. Download only from the official release list.
